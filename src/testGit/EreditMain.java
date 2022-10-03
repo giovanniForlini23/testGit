@@ -6,6 +6,7 @@ public class EreditMain {
 		System.out.println("Hello world");
 		System.out.println("Secondo messaggio");
 		System.out.println("Terzo messaggio");
+		System.out.println("Quarto messaggio");
 	}
 
 }
